@@ -20,17 +20,17 @@ This project provides opportunity to gain hands on experience in designing inter
 -	Present insights using an interactive dashboard
 ### Processes
 Steps taken to prepare the dataset:
-Step 1
+#### Step 1
 -	Removed duplicates and irrelevant columns
 -	Standardized column names
 -	Converted financial figures to consistent formats
-Step 2
+#### Step 2
 	Created calculated fields:
-- Profit Margin
+-   Profit Margin
 -	Cost-to-Income Ratio
 -	Average Interest Income
 -	Average net interest income
-Step 3
+#### Step 3
 •	Used Power Query to merge and transform datasets
 ### Tools Used
 -	Microsoft Excel
