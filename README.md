@@ -2,11 +2,11 @@
 ## Table of content
 - [Description](#description)
 - [Objective](#objective)
-- [Processes](processes)
+- [Processes](#processes)
 - [Tools Used](toolsused)
-- [Insights](insights)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Description
 This project provides opportunity to gain hands on experience in designing interactive dashboards using Excel. It analyzes the financial performance of selected banks over multiple years to understand profitability, efficiency, and income structure. The analysis focuses on key financial metrics such as operating profit, cost-to-income ratio, and interest income.
