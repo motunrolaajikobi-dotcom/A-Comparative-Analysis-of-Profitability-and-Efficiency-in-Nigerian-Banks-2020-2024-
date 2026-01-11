@@ -1,7 +1,7 @@
 # A-Comparative-Analysis-of-Profitability-and-Efficiency-in-Nigerian-Banks-2020-2024
 ## Table of content
 - [Description](#description)
-- [Objective](objective)
+- [Objective](#objective)
 - [Processes](processes)
 - [Tools Used](toolsused)
 - [Insights](insights)
